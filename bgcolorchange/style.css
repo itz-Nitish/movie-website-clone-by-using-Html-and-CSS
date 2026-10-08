@@ -1,0 +1,30 @@
+body{
+    margin:0px;
+    padding:0px;
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    align-items:center;
+    height:100vh;
+}
+button{
+   height:100px;
+   width:100px;
+   border:2px solid black;
+}
+#orange{
+    background-color: orange;
+   }
+#white{
+    background-color: white;
+   }
+#green{
+    background-color: green;
+   }
+#skyblue{
+    background-color: skyblue;
+   }
+#yellow{
+    background-color: yellow;
+   }
+
